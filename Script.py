@@ -94,9 +94,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/IM_JISSHU>☢VJ☢</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/randeep_singh48>RANDEEP</a></b>
   
- <b>✯ Join here : <a href=https://t.me/IM_JISSHU>☢Join my updateds☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/randeep_singh48>☢Join my updateds☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -220,7 +220,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """<b>{file_name}
 
-<b>💢 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href='https://t.me/MAP_Originals_Backup'>𝗠𝗔𝗣 𝗕𝗮𝗰𝗸𝘂𝗽</a></b>""" 
+<b>💢 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href='https://t.me/hd_movies488'>RS MOVIES</a></b>""" 
 
     IMDB_TEMPLATE_TXT = """
 IMDb Data:
@@ -675,7 +675,7 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/IM_JISSHU'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/randeep_singh48'>RANDEEP</a>
 
 -Dev 2 <a href='https://t.me/movie_file_20'>VJ</a>
 
