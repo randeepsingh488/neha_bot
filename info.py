@@ -29,7 +29,7 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 PICS = (environ.get('PICS', 'https://graph.org/file/c5a0db862897378de9dba.jpg')).split()#SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/c5a0db862897378de9dba.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/451f038b4e7c2ddd10dc0.mp4")
-SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/5b421e9982fc8cbb586c6.jpg")
+SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/79886efb59acabd013d6d.jpg")
 PICS_JOIN = (environ.get('PICS_JOIN', 'https://graph.org/file/7b9292a0c6c0b6b53fb21.jpg')).split()
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6771585008').split()]
